@@ -1,5 +1,5 @@
-Fotoğraf Paylaşma
-Hikaye Ekleme
 Canlı Yayın Yapma
+Hikaye Ekleme
+Fotoğraf Paylaşma
 DM Gönderme
 Fotoğraf Beğenme
