@@ -1,1 +1,1 @@
-# -zellik-Listesi
+# -Ozellik-Listesi
