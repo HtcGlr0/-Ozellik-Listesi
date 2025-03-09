@@ -1,5 +1,5 @@
-Canlı Yayın Yapma
-Hikaye Ekleme
-Fotoğraf Paylaşma
-DM Gönderme
-Fotoğraf Beğenme
+1-Canlı Yayın Yapma
+2-Hikaye Ekleme
+3-Fotoğraf Paylaşma
+4-DM Gönderme
+5-Fotoğraf Beğenme
